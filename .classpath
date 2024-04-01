@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="Class374.java|Class318.java|CheckBoxUseKeypadInput.java|Class507.java|Class503.java|Class504.java|Class502.java|Class501.java|Class102.java|Class65.java|Class67.java|Class69.java|Class73.java|Class2.java|Class91.java|Class23.java|Class402.java|Class190.java|Class18.java|Class13.java|Class5.java|Class33.java|Class337.java|Class333.java|Class334.java|Class331.java|Class138.java|Class338.java|Class339.java|Class341.java|Class311.java|Class312.java|Class314.java|Class316.java|Class319.java|Class317.java|Class497.java|Class140.java|Class340.java|Class305.java|Class34.java|Class265.java|ThemesForm.java|Class180.java|Class182.java|Class262.java|Class181.java|Class279.java|Class151.java|Class320.java|Class264.java|Class500.java|Class517.java|Class464.java|Class167.java|Class373.java|Class178.java|Class267.java|Class200.java|Class225.java|Class294.java|Class195.java|Class57.java|Class54.java|Class433.java|Class513.java|Class495.java|Class418.java|Class92.java|ApplicationTheme.java" kind="src" path="src"/>
+	<classpathentry excluding="res/emoji/" kind="src" path="res"/>
+	<classpathentry kind="con" path="org.elipse.mtj.JavaMEContainer/Oracle Java(TM) Platform Micro Edition SDK 3.4/JavaMEPhone1"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,9 @@
+MIDlet-1: VK,/new/phmini.png,ru.curoviyxru.phoenix.midlet.Midlet
+MIDlet-Jar-URL: VK.jar
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Version: 1.0.0
+MIDlet-Name: VK
+MIDlet-Description: Unofficial client for Russian social network VK for devices supporting CLDC 1.1 and MIDP 2.0
+MIDlet-Vendor: Makzz
+MIDlet-Permissions: javax.microedition.io.Connector.http,javax.microedition.io.Connector.https,javax.microedition.io.Connector.file.read,javax.microedition.io.Connector.file.write,javax.microedition.io.Connector.ssl
+MicroEdition-Profile: MIDP-2.0
